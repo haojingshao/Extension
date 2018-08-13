@@ -3,7 +3,6 @@ NA12878Termini.fa
 3q= chr3:197000000-197962430 directly connects to chr19:183990-61350
 6p= chr5:180905260-180830571 directly connects to chr6:71232-1000000
 9q= chr9:140500000-141153431 directly connects to chr1:154500-94058
-11p= chr5:180895536-180823811 directly connects to chr11:60001-1000000
 15q= chr15:102000000-102521392 directly connects to ( chr15:102510393-102521392 x 4 )
 
 4q= correction of nanopore raw read (457c6e90-cc88-48d4-91ec-f3fabbf321ec_Basecall_1D_template)
